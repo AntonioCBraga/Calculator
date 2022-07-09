@@ -43,5 +43,22 @@ body{
     text-align:right;
 }
 
+.asd.brd{
+    box-sizing: border-box;
+    border: 10px solid rgba(213, 19, 19, 0.91);
+    
+
+}
+
+.asd.brd1{
+    box-sizing: border-box;
+    border: 6px solid rgba(158, 122, 45, 0.636);
+    
+}
+
+.asd.brd2{
+    box-sizing: border-box;
+    border: 10px solid rgba(19, 213, 22, 0.91);
+}
 
 
